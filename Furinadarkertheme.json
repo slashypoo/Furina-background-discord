@@ -1,0 +1,45 @@
+{
+  "name": "Midnight furina - High Visibility",
+  "description": "Deep blue dark mode with visible background",
+  "authors": [
+    {
+      "name": "slash",
+      "id": "1482411365288251392"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#00000000"],
+    "BACKGROUND_ACCENT": ["#1e293b90"],
+    "BACKGROUND_SECONDARY": ["#00000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#334155"],
+    "DIVIDER_STRONG": ["#1e293b"],
+    "DIVIDER_SUBTLE": ["#1e293b"],
+    "BORDER_SUBTLE": ["#1e293b"],
+    "TEXT_BRAND": ["#60a5fa"],
+    "TEXT_LINK": ["#3b82f6"],
+    "TEXT_NORMAL": ["#f1f5f9"],
+    "TEXT_MUTED": ["#94a3b8"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0f172a90"],
+    "MENTION_BADGE": ["#3b82f6"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#2563eb"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#1e293b"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#00000000",
+    "PRIMARY_700": "#00000000",
+    "BRAND_500": "#3b82f6",
+    "BLACK_500": "#00000040"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/slashypoo/Furina-background-discord/refs/heads/main/IMG_0651.jpeg",
+    "blur": 0.1,
+    "alpha": 0.65,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2
+}
