@@ -1,0 +1,45 @@
+{
+  "name": "furina Monet Pastel Blue",
+  "description": "Soft pastel blue and lavender aesthetic",
+  "authors": [
+    {
+      "name": "slash",
+      "id": "1482411365288251392"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#e0e7ff"],
+    "BACKGROUND_ACCENT": ["#b3c7f7"],
+    "BACKGROUND_SECONDARY": ["#ecf0ff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#cbd5e1"],
+    "DIVIDER_STRONG": ["#d1d5db"],
+    "DIVIDER_SUBTLE": ["#e2e8f0"],
+    "BORDER_SUBTLE": ["#cbd5e1"],
+    "TEXT_BRAND": ["#6366f1"],
+    "TEXT_LINK": ["#3b82f6"],
+    "TEXT_NORMAL": ["#1e293b"],
+    "TEXT_MUTED": ["#64748b"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#f8fafc"],
+    "MENTION_BADGE": ["#93c5fd"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#a5b4fc"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#e0e7ff"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#ecf0ff",
+    "PRIMARY_700": "#e0e7ff",
+    "BRAND_500": "#a5b4fc",
+    "BLACK_500": "#00000010"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/slashypoo/Furina-background-discord/refs/heads/main/IMG_0650.jpeg",
+    "blur": 0.3,
+    "alpha": 0.15,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2
+}
