@@ -1,0 +1,45 @@
+{
+  "name": "deep sea monet blue",
+  "description": "Layered light and dark blue theme",
+  "authors": [
+    {
+      "name": "assistant",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#0a1128"],
+    "BACKGROUND_ACCENT": ["#1e3a8a"],
+    "BACKGROUND_SECONDARY": ["#0f172a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#334155"],
+    "DIVIDER_STRONG": ["#1e40af"],
+    "DIVIDER_SUBTLE": ["#1e3a8a"],
+    "BORDER_SUBTLE": ["#1d4ed8"],
+    "TEXT_BRAND": ["#60a5fa"],
+    "TEXT_LINK": ["#93c5fd"],
+    "TEXT_NORMAL": ["#f8fafc"],
+    "TEXT_MUTED": ["#94a3b8"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0a1128"],
+    "MENTION_BADGE": ["#3b82f6"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#2563eb"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#1e3a8a"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#0a1128",
+    "PRIMARY_700": "#020617",
+    "BRAND_500": "#1d4ed8",
+    "BLACK_500": "#00000095"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/slashypoo/Furina-background-discord/refs/heads/main/IMG_0651.jpeg",
+    "blur": 0.15,
+    "alpha": 0.5,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2
+}
