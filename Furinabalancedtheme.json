@@ -1,0 +1,45 @@
+{
+  "name": "furina Balanced Slate Blue",
+  "description": "Medium blue with clear background visibility",
+  "authors": [
+    {
+      "name": "slash",
+      "id": "1482411365288251392"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#3b82f640"],
+    "BACKGROUND_ACCENT": ["#60a5fa70"],
+    "BACKGROUND_SECONDARY": ["#1e293b50"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#60a5fa30"],
+    "DIVIDER_STRONG": ["#60a5fa40"],
+    "DIVIDER_SUBTLE": ["#60a5fa20"],
+    "BORDER_SUBTLE": ["#60a5fa40"],
+    "TEXT_BRAND": ["#ffffff"],
+    "TEXT_LINK": ["#93c5fd"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#d1d5db"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#1e293b70"],
+    "MENTION_BADGE": ["#3b82f6"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#3b82f6"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#60a5fa80"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#1e293b60",
+    "PRIMARY_700": "#1e293b40",
+    "BRAND_500": "#3b82f6",
+    "BLACK_500": "#00000020"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/slashypoo/Furina-background-discord/refs/heads/main/IMG_0651.jpeg",
+    "blur": 0.0,
+    "alpha": 0.85,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2
+}
